@@ -110,4 +110,4 @@ export default List;
 
 ```
 
-For full code check - [Sachin-Kumar_Front-End](https://github.com/kr-sachin-s/Sachin-Kumar_Front-End)/assignment/
+For full code check - [Harshit-Kumar_Front-End](https://github.com/harshit-krk/Harshit-Kumar_Front-End
